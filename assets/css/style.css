@@ -11,6 +11,12 @@ body {
 	background: #843299;
 }
 
+#btn {
+	margin: 20px;
+	padding: 10px;
+	background: #C2E535;
+}
+
 .seats {
 	display: inline-block;
 	width: 80px;
@@ -22,4 +28,6 @@ body {
 .place {
 	display: inline-block;
 	border: 2px dashed #000;
+	margin: 5px;
+	background: #AFAAAA;
 }
