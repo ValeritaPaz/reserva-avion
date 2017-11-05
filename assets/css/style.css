@@ -1,0 +1,25 @@
+body {
+	text-align: center;
+}
+/*formato de asientos de primera clase*/
+.first-class {
+	background: #67C78D;
+}
+
+/*formato de asientos de clase económica*/
+.economic-class {
+	background: #843299;
+}
+
+.seats {
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	border: 1px dotted;
+	border-radius: 30%;
+	margin: 10px;
+}
+.place {
+	display: inline-block;
+	border: 2px dashed #000;
+}
